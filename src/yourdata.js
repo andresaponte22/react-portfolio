@@ -167,8 +167,8 @@ export default {
 
   promotionHeading: "Education",
   promotionPara:
-    "Graduated from highschool with Academical Honours in Ontario, Canada in 2017. I pursued degrees in Political Science at the University of Guelph and then Architecture at Sheridan College to no avail. I thought of coding as just a hobby but decided to make it a career in 2021.",
-  // End Promotion Section -----------------
+    "Graduated from highschool with Academical Honours in Ontario, Canada in 2017. I thought of coding as just a hobby but decided to make it a career in 2021.",
+  // End Promotion Section -----------------gigit 
 
   //   Contact Section --------------
 
